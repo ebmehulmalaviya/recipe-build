@@ -37,7 +37,7 @@ export default {
   text-decoration: none;
 }
 .navbar {
-  background: powderblue;
+  background: rgb(32, 175, 144);
 }
 .navbar ul {
   display: flex;
@@ -50,7 +50,7 @@ export default {
 }
 .navbar ul li a {
   padding: 12px 15px;
-  color: #000;
+  color: rgb(248, 241, 241);
   cursor: pointer;
 }
 .navbar ul li:hover {

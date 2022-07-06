@@ -1,44 +1,50 @@
 {
-    "posts": [{
-        "id": 1,
-        "title": "json-server",
-        "author": "typicode"
-    }],
-    "addrecepidb": [{
-            "recipename": "megi",
-            "timetocook": "15 min",
-            "TotalServe": "2",
-            "ingredeients": "tomato, mutor",
-            "Methods": "water and more",
-            "Stutus": "publice",
-            "unit": "marchu powder",
-            "water": "500ml",
-            "pices": "no",
-            "id": 1
-        },
-        {
-            "recipename": "bhajiya",
-            "timetocook": "45min",
-            "TotalServe": "10",
-            "ingredeients": "kothmir,methi,marchu",
-            "Methods": "beson mix water",
-            "Stutus": "publice",
-            "unit": "salet 1 spoon",
-            "water": "500ml",
-            "pices": "no",
-            "id": 2
-        },
-        {
-            "recipename": "sabji potato",
-            "timetocook": "35min",
-            "TotalServe": "5 ",
-            "ingredeients": "potato ",
-            "Methods": "potato and more",
-            "Stutus": "publice",
-            "unit": "murchu powder",
-            "water": "300ml",
-            "pices": "no",
-            "id": 3
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "addrecepidb": [
+    {
+      "recipename": "bhajiya",
+      "timetocook": "1",
+      "TotalServe": "10",
+      "ingredeients": "besan and more",
+      "Methods": "oil and all item fray",
+      "Chef": "mehul",
+      "Stutus": "Un-Publice",
+      "unit": "spoon",
+      "water": "900",
+      "pices": "no",
+      "id": 2
+    },
+    {
+      "recipename": "megi",
+      "timetocook": "1",
+      "TotalServe": "5",
+      "ingredeients": "red chili and more",
+      "Methods": "boiling all items",
+      "Chef": "mehul",
+      "Stutus": "Un-Publice",
+      "unit": "Gram 10 Slat",
+      "water": "1600",
+      "pices": "no",
+      "id": 3
+    },
+    {
+      "recipename": "jk",
+      "timetocook": "kjh",
+      "TotalServe": "j",
+      "ingredeients": "jkh",
+      "Methods": "kjhjhjkkjkl",
+      "Chef": "rj",
+      "Stutus": "Publice",
+      "unit": "Gram 50 slat",
+      "water": "1500",
+      "pices": "no",
+      "id": 9
+    }
+  ]
 }
